@@ -27,7 +27,7 @@ This program utilizes deep learning models to change the background of an input 
 
 This solution involves utilizing deep learning models (SAM and Stable Diffusion Inpainting) for image segmentation and background inpainting, enabling users to change backgrounds interactively based on their inputs and preferences.
 
-## Installation
+## Installation and setup
 To run the program, you need the following dependencies:
 
 - Python 3.11
@@ -73,6 +73,7 @@ Here's a simple example to illustrate how to use the program:
 
 - Mask:
     - You can click on the object you want to mask(in this example it is the girl)
+    - Click multiple times on different areas to make sure that the target object is fully masked.
     - ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/b229b894-3307-4d88-ab00-f4e3d95e13a5)
     - As you can see the object is masked
 
@@ -126,5 +127,9 @@ The entire process takes around 9-10 seconds to complete based on the complexity
 - The program utilizes deep learning models, so running it on a machine with GPU support is recommended for faster processing.
 
 ## Link for the live app
+
+https://f833c190845167ea75.gradio.live
+
+This is not a fully live server ,whenever you want to open it just send a request and the server will be turned on by me.(Didnt go for a fully live server due to high cost of running 24/7)
 
 
