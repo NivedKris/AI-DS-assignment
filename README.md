@@ -69,7 +69,7 @@ Follow this folder structure
 ## Example
 Here's a simple example to illustrate how to use the program:
 - Input Image:
- ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/a7d1a6b3-637e-46a0-bf51-135963fef848)
+   - ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/a7d1a6b3-637e-46a0-bf51-135963fef848)
 
 - Mask: [Describe the mask selection process]
 - Prompt: [Provide an example prompt text]
