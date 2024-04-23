@@ -43,9 +43,10 @@ To run the program, you need the following dependencies:
 
 You can install the dependencies via pip(use pip install -r requirements.txt)
 
+Install gradio using the source file provided in the repository which is a modified version of gradio to support image coordinate selection.
 
 ## Usage
-1. Run the program by executing the provided Python script (`app.py`).
+1. Run the program by executing the provided Python script (`app.py`).Use gradio app.py or python app.py to run the application
 2. Upon launching the program, you'll see an interface with an input image, a mask image, and an output image display area.
 3. Use the provided input image selection to choose an image whose background you want to change.
 4. Define the mask by selecting areas of the image using the cursor. Each selection will be added to the mask.
@@ -56,7 +57,7 @@ You can install the dependencies via pip(use pip install -r requirements.txt)
 ## Example
 Here's a simple example to illustrate how to use the program:
 - Input Image:
-- ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/a7d1a6b3-637e-46a0-bf51-135963fef848)
+ ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/a7d1a6b3-637e-46a0-bf51-135963fef848)
 
 - Mask: [Describe the mask selection process]
 - Prompt: [Provide an example prompt text]
