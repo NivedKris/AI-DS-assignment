@@ -73,7 +73,7 @@ Here's a simple example to illustrate how to use the program:
 
 - Mask:
     - You can click on the object you want to mask(in this example it is the girl)
-    - ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/b229b894-3307-4d88-ab00-f4e3d95e13a5)
+     ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/b229b894-3307-4d88-ab00-f4e3d95e13a5)
     - As you can see the object is masked
 
 - Prompt:Im giving the prompt "Girl on a beach" and lets see the output
