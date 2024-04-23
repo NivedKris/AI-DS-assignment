@@ -124,7 +124,7 @@ The entire process takes around 9-10 seconds to complete based on the complexity
 ## Notes
 - Ensure that the provided input image is of sufficient quality and resolution for optimal results.
 - Experiment with different prompts to achieve desired background changes.
-- The program utilizes deep learning models, so running it on a machine with GPU support is recommended for faster processing.
+- The program utilizes deep learning models, so running it on a machine with GPU support is recommended for faster processing.(Use t4 gpu if running in colab)
 
 ## Link for the live app
 
