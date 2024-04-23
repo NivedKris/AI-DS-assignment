@@ -19,6 +19,10 @@ Segment Anything Model is an open source model ,follow the link to learn more:-h
 - The input image and generated mask are resized to a fixed size (512x512) to match the model's input requirements.
 - The Stable Diffusion Inpainting Pipeline is applied to the input image to change the background.
 - The pipeline utilizes deep learning techniques to inpaint the background based on the provided prompt and mask.
+- ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/9eb19078-4cce-4af8-8da4-e74088b5126c)
+- ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/07fda915-aa4e-40fa-a22d-8e791bd42f6e)
+
+
 
 ### 3. Output
 - The resulting image with the changed background is displayed as the output.
