@@ -69,7 +69,7 @@ Follow this folder structure
 ## Example
 Here's a simple example to illustrate how to use the program:
 - Input Image:
-   - ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/a7d1a6b3-637e-46a0-bf51-135963fef848)
+    ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/a7d1a6b3-637e-46a0-bf51-135963fef848)
 
 - Mask:
     - You can click on the object you want to mask(in this example it is the girl)
@@ -79,12 +79,12 @@ Here's a simple example to illustrate how to use the program:
 - Prompt:Im giving the prompt "Girl on a beach" and lets see the output
 - Output Image:
     - Here is the output image for our prompt:-
-    - ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/a0fadaf8-bb15-4ced-92ad-b764d8795513)
+     ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/a0fadaf8-bb15-4ced-92ad-b764d8795513)
     - We can regenerate the background by pressing submit again
-    - ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/ef384577-365b-4287-a35a-35c9884d0215)
+     ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/ef384577-365b-4287-a35a-35c9884d0215)
 
 -Entire Application:
-    - ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/41f11177-82f1-40ef-984d-94a809084a9d)
+     ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/41f11177-82f1-40ef-984d-94a809084a9d)
 
 
 The entire process takes around 9-10 seconds to complete based on the complexity of the prompt and object.
@@ -125,5 +125,6 @@ The entire process takes around 9-10 seconds to complete based on the complexity
 - Experiment with different prompts to achieve desired background changes.
 - The program utilizes deep learning models, so running it on a machine with GPU support is recommended for faster processing.
 
----
+## Link for the live app
+
 
