@@ -80,9 +80,29 @@ Here's a simple example to illustrate how to use the program:
 
 -The input samples and their corresponding 5 output images with their prompts are given in this repository
 -The repo structure is as follow:-
-app.py
-weights/
-  - sam_vit_h_4b8939.pth
+- README.md
+- requirements.txt
+- Application/
+  - app.py
+  - app.ipynb
+- input_images/
+  - product1.jpg
+  - product2.jpg
+  - product3.jpg
+  - product4.jpg
+  - product5.jpg
+-output_images/
+  -product1/
+    -1.jpg
+    -1.txt(prompt)
+    -2.jpg
+    -2.txt
+    ......
+  -product2/
+  -product3/
+  -product4/
+  -product5/
+    
 
 
 ## Notes
@@ -92,4 +112,3 @@ weights/
 
 ---
 
-Feel free to customize this README according to your preferences and specific requirements!
