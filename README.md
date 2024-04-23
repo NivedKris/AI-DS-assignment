@@ -71,9 +71,24 @@ Here's a simple example to illustrate how to use the program:
 - Input Image:
    - ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/a7d1a6b3-637e-46a0-bf51-135963fef848)
 
-- Mask: [Describe the mask selection process]
-- Prompt: [Provide an example prompt text]
-- Output Image: [Provide the resulting output image]
+- Mask:
+    - You can click on the object you want to mask(in this example it is the girl)
+    - ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/b229b894-3307-4d88-ab00-f4e3d95e13a5)
+    - As you can see the object is masked
+
+- Prompt:Im giving the prompt "Girl on a beach" and lets see the output
+- Output Image:
+    - Here is the output image for our prompt:-
+    - ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/a0fadaf8-bb15-4ced-92ad-b764d8795513)
+    - We can regenerate the background by pressing submit again
+    - ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/ef384577-365b-4287-a35a-35c9884d0215)
+
+-Entire Application:
+    - ![image](https://github.com/NivedKris/AI-DS-assignment/assets/100478612/41f11177-82f1-40ef-984d-94a809084a9d)
+
+
+The entire process takes around 9-10 seconds to complete based on the complexity of the prompt and object.
+
 
 
 ## Repository structure
