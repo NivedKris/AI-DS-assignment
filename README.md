@@ -43,7 +43,19 @@ To run the program, you need the following dependencies:
 
 You can install the dependencies via pip(use pip install -r requirements.txt)
 
-Install gradio using the source file provided in the repository which is a modified version of gradio to support image coordinate selection.
+Install gradio using the source file provided in this link https://drive.google.com/file/d/1EiVYMDRgMssSgSpVVL4cguPDxaX1Tazq/view?usp=sharing 
+which is a modified version of gradio to support image coordinate selection.
+
+Download the tar.gz file and use pip install "gradio-4.27.0.tar.gz"
+
+Also download the SAM weights from this link https://drive.google.com/file/d/1EeeI71RnBysV4BWDrQkJgJ0p9UYcHXJg/view?usp=drive_link
+
+Follow this folder structure
+
+- app.py
+- weights/
+  - sam_vit_h_4b8939.pth
+
 
 ## Usage
 1. Run the program by executing the provided Python script (`app.py`).Use gradio app.py or python app.py to run the application
@@ -62,6 +74,16 @@ Here's a simple example to illustrate how to use the program:
 - Mask: [Describe the mask selection process]
 - Prompt: [Provide an example prompt text]
 - Output Image: [Provide the resulting output image]
+
+
+## Repository structure
+
+-The input samples and their corresponding 5 output images with their prompts are given in this repository
+-The repo structure is as follow:-
+app.py
+weights/
+  - sam_vit_h_4b8939.pth
+
 
 ## Notes
 - Ensure that the provided input image is of sufficient quality and resolution for optimal results.
