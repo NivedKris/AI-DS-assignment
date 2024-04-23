@@ -4,7 +4,7 @@
 This program utilizes deep learning models to change the background of an input image based on user-defined masks and prompts. It incorporates Stable Diffusion Inpainting and the Segment Anything Model (SAM) for accurate inpainting and segmentation.
 
 
-## How it Works?
+## Approach to the problem
 
 
 
