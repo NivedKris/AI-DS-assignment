@@ -13,6 +13,8 @@ This program utilizes deep learning models to change the background of an input 
 - SAM predicts the background mask based on the input image and selected pixels.
 - The mask is inverted to represent the background area to be changed.
 
+Segment Anything Model is an open source model ,follow the link to learn more:-https://segment-anything.com/#:~:text=Segment%20Anything%20Model%20%28SAM%29%3A%20a%20new%20AI%20model,and%20images%2C%20without%20the%20need%20for%20additional%20training.
+
 ### 2. Inpainting Process
 - The input image and generated mask are resized to a fixed size (512x512) to match the model's input requirements.
 - The Stable Diffusion Inpainting Pipeline is applied to the input image to change the background.
