@@ -91,17 +91,17 @@ Here's a simple example to illustrate how to use the program:
   - product3.jpg
   - product4.jpg
   - product5.jpg
--output_images/
-  -product1/
-    -1.jpg
-    -1.txt(prompt)
-    -2.jpg
-    -2.txt
+- output_images/
+  - product1/
+    - 1.jpg
+    - 1.txt(prompt)
+    - 2.jpg
+    - 2.txt
     ......
-  -product2/
-  -product3/
-  -product4/
-  -product5/
+  - product2/
+  - product3/
+  - product4/
+  - product5/
     
 
 
