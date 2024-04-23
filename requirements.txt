@@ -7,4 +7,3 @@ matplotlib
 onnxruntime 
 onnx
 diffusers
-https://github.com/gradio-app/gradio/archive/refs/tags/gradio@4.27.0.tar.gz
