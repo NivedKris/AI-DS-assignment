@@ -41,11 +41,11 @@ To run the program, you need the following dependencies:
 - matplotlib
 - etc......
 
-You can install the dependencies via pip(use the requirements.txt)
+You can install the dependencies via pip(use pip install -r requirements.txt)
 
 
 ## Usage
-1. Run the program by executing the provided Python script (`image_background_changer.py`).
+1. Run the program by executing the provided Python script (`app.py`).
 2. Upon launching the program, you'll see an interface with an input image, a mask image, and an output image display area.
 3. Use the provided input image selection to choose an image whose background you want to change.
 4. Define the mask by selecting areas of the image using the cursor. Each selection will be added to the mask.
